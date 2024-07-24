@@ -6,3 +6,4 @@ for (let fer of furniture) {
         console.log(letter);
     }
 }
+
